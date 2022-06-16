@@ -1,0 +1,15 @@
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\bin\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.exe
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\bin\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.deps.json
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\bin\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.runtimeconfig.json
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\bin\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.dll
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\bin\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.pdb
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.AssemblyInfo.cs
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.dll
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\refint\Ejercicio Sesion 2 - Ejercicio 2.dll
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.pdb
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\Ejercicio Sesion 2 - Ejercicio 2.genruntimeconfig.cache
+C:\Users\faesp\Desktop\Programacion\C# bootcamp\Ejercicios\Ejercicio Sesion 2 - Ejercicio 2\obj\Debug\net6.0\ref\Ejercicio Sesion 2 - Ejercicio 2.dll
