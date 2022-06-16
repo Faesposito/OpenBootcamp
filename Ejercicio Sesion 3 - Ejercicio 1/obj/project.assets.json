@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3  - Ejercicio 3\\Ejercicio Sesion 2  - Ejercicio 3.csproj",
-      "projectName": "Ejercicio Sesion 2  - Ejercicio 3",
-      "projectPath": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3  - Ejercicio 3\\Ejercicio Sesion 2  - Ejercicio 3.csproj",
+      "projectUniqueName": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3 - Ejercicio 1\\Ejercicio Sesion 3 - Ejercicio 1.csproj",
+      "projectName": "Ejercicio Sesion 3 - Ejercicio 1",
+      "projectPath": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3 - Ejercicio 1\\Ejercicio Sesion 3 - Ejercicio 1.csproj",
       "packagesPath": "C:\\Users\\faesp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3  - Ejercicio 3\\obj\\",
+      "outputPath": "C:\\Users\\faesp\\Desktop\\Programacion\\C# bootcamp\\Ejercicios\\Ejercicio Sesion 3 - Ejercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
